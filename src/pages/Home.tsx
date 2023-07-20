@@ -26,7 +26,7 @@ const HomePage: React.FunctionComponent = () => {
       <section className='pt-10'>
         <h1>Welcome back, {user?.username ?? user?.name?.replaceAll(' ', '')}!</h1>
         <p className='mt-4 max-w-prose'>
-          ExpenseApp can help you notes your income, outcome and manage your expense more easy.
+          SpenditureTracker can help you notes your income, outcome and manage your expense more easy.
         </p>
       </section>
 

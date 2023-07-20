@@ -44,7 +44,7 @@ const ProfilePage: React.FunctionComponent = () => {
   const openSignOut = useCallback(
     () =>
       openPrompt({
-        message: 'Are you sure you want to signout from ExpenseApp?',
+        message: 'Are you sure you want to signout from SpenditureTracker?',
         title: 'Signout warning',
         onConfirm: handleSignout
       }),
@@ -55,7 +55,7 @@ const ProfilePage: React.FunctionComponent = () => {
     () =>
       openPrompt({
         title: 'Delete account warning',
-        message: 'Are you sure you want to delete your ExpenseApp account?',
+        message: 'Are you sure you want to delete your SpenditureTracker account?',
         onConfirm: handleDeleteUser
       }),
     []

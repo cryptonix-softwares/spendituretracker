@@ -42,7 +42,7 @@ const ForgotPassword: React.FunctionComponent = () => {
         <h1>Forgot your password?</h1>
         <p className='mt-2.5 mb-6 md:mb-8'>
           Don&apos;t worry, you can reset your password at any time, submit your email and then
-          ExpenseApp will sent you an email confirmation to update your password.
+          SpenditureTracker will sent you an email confirmation to update your password.
         </p>
 
         <div className='flex flex-col gap-2 mb-4'>

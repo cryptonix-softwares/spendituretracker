@@ -37,7 +37,7 @@ const Menu = forwardRef<HTMLDivElement, MenuProps>(({ toggleMenu }, ref) => {
   const handleSignoutClick = async () => {
     toggleMenu()
     openPrompt({
-      message: 'Are you sure you want to signout from ExpenseApp?',
+      message: 'Are you sure you want to signout from SpenditureTracker?',
       title: 'Signout warning',
       onConfirm: handleLogout
     })

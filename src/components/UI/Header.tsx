@@ -37,7 +37,7 @@ const Header: React.FunctionComponent = () => {
           {!isOnHomepage && (
             <HiArrowLeft className='group-hover:translate-x-1 transition-transform' />
           )}
-          {isOnHomepage ? 'ExpenseApp' : <span>Back</span>}
+          {isOnHomepage ? 'SpenditureTracker' : <span>Back</span>}
         </Link>
 
         <Nav />

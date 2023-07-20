@@ -50,7 +50,7 @@ const SigninPage: React.FunctionComponent = () => {
         <h2>
           Signin to{' '}
           <span className='bg-clip-text text-transparent bg-gradient-to-r from-primary-5 to-ternary-5'>
-            ExpenseApp
+            SpenditureTracker
           </span>
         </h2>
 
@@ -60,7 +60,7 @@ const SigninPage: React.FunctionComponent = () => {
           <Input
             type='email'
             id='email'
-            placeholder='Your ExpenseApp email address'
+            placeholder='Your SpenditureTracker email address'
             className={twclsx(
               rhf.formState.errors.email?.message &&
                 'border-error-1 dark:border-error-1 focus:border-error-1 focus:ring-error-1'
@@ -78,7 +78,7 @@ const SigninPage: React.FunctionComponent = () => {
           <Input
             type='password'
             id='password'
-            placeholder='Your ExpenseApp password'
+            placeholder='Your SpenditureTracker password'
             className={twclsx(
               rhf.formState.errors.password?.message &&
                 'border-error-1 dark:border-error-1 focus:border-error-1 focus:ring-error-1'

@@ -37,11 +37,11 @@ const SignupPage: React.FunctionComponent = () => {
         <h2>
           Signup to{' '}
           <span className='bg-clip-text text-transparent bg-gradient-to-r from-primary-5 to-ternary-5'>
-            ExpenseApp
+            SpenditureTracker
           </span>
         </h2>
         <p className='text-sm'>
-          * ExpenseApp will not share your data,{' '}
+          * SpenditureTracker will not share your data,{' '}
           <Link to='/privacy-policy' className='text-primary-5 dark:text-primary-4'>
             See privacy policy
           </Link>

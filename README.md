@@ -1,6 +1,6 @@
-# <p align="center">**ExpenseApp💰**</p>
+# <p align="center">**SpenditureTracker💰**</p>
 
-ExpenseApp is an app to see you expense history, income history and help you notes what you're buying lately💰
+SpenditureTracker is an app to see you expense history, income history and help you notes what you're buying lately💰
 
 > I built this only on weekend and sometimes at night to spend my **lonely** time as a Frontend Developer
 

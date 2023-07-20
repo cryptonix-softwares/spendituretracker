@@ -26,7 +26,7 @@ const PrivacyPolicyPage: React.FunctionComponent = () => {
 
       <h1>Privacy Policy</h1>
       <p>
-        Rizki M Citra built the ExpenseApp app as an Open Source app. This SERVICE is provided by
+        Rizki M Citra built the SpenditureTracker app as an Open Source app. This SERVICE is provided by
         Rizki M Citra at no cost and is intended for use as is.
       </p>
       <p>
@@ -41,7 +41,7 @@ const PrivacyPolicyPage: React.FunctionComponent = () => {
       </p>
       <p>
         The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-        which are accessible at ExpenseApp unless otherwise defined in this Privacy Policy.
+        which are accessible at SpenditureTracker unless otherwise defined in this Privacy Policy.
       </p>
       <h2>Information Collection and Use</h2>
 
