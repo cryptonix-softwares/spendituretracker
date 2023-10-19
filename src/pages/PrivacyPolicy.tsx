@@ -26,7 +26,7 @@ const PrivacyPolicyPage: React.FunctionComponent = () => {
 
       <h1>Privacy Policy</h1>
       <p>
-        Rizki developerdennis built the ExpenditureTracker app as an Open Source app. This SERVICE is provided by
+        Developer Dennis built the ExpenditureTracker app as an Open Source app. This SERVICE is provided by
         Developer Dennis at no cost and is intended for use as is.
       </p>
       <p>
