@@ -26,8 +26,8 @@ const PrivacyPolicyPage: React.FunctionComponent = () => {
 
       <h1>Privacy Policy</h1>
       <p>
-        Rizki M Citra built the SpenditureTracker app as an Open Source app. This SERVICE is provided by
-        Rizki M Citra at no cost and is intended for use as is.
+        Rizki developerdennis built the ExpenditureTracker app as an Open Source app. This SERVICE is provided by
+        Developer Dennis at no cost and is intended for use as is.
       </p>
       <p>
         This page is used to inform visitors regarding my policies with the collection, use, and
@@ -41,7 +41,7 @@ const PrivacyPolicyPage: React.FunctionComponent = () => {
       </p>
       <p>
         The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-        which are accessible at SpenditureTracker unless otherwise defined in this Privacy Policy.
+        which are accessible at ExpenditureTracker unless otherwise defined in this Privacy Policy.
       </p>
       <h2>Information Collection and Use</h2>
 
@@ -108,15 +108,15 @@ const PrivacyPolicyPage: React.FunctionComponent = () => {
       <p>
         I may update our Privacy Policy from time to time. Thus, you are advised to review this page
         periodically for any changes. I will notify you of any changes by posting the new Privacy
-        Policy on this page. This policy is effective as of {formatDate('2022-07-27')}
+        Policy on this page. This policy is effective as of {formatDate('2023-07-27')}
       </p>
 
       <h2>Contact</h2>
       <p>
         If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
         me at{' '}
-        <a className='text-primary-5 dark:text-primary-4' href='mailto:rmaulana.citra@gmail.com'>
-          rmaulana.citra@gmail.com
+        <a className='text-primary-5 dark:text-primary-4' href='mailto:hey@developerdennis.com'>
+          hey@developerdennis.com
         </a>
         .
       </p>
